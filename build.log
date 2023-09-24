@@ -1,0 +1,4 @@
+Messages from application of c:\users\lixia\anaconda3\lib\site-packages\pretext\static\xsl\pretext-html.xsl:
+PTX:ERROR: Table of Contents level not determined
+MBX:BUG: Level offset undefined for this document type
+MBX:WARNING:    Your <book> does not have any chapters.  Maybe you forgot the '--xinclude' switch on your 'xsltproc' command line?
