@@ -1,4 +1,5 @@
 Messages from application of c:\users\lixia\anaconda3\lib\site-packages\pretext\static\xsl\pretext-html.xsl:
-PTX:ERROR: Table of Contents level not determined
-MBX:BUG: Level offset undefined for this document type
-MBX:WARNING:    Your <book> does not have any chapters.  Maybe you forgot the '--xinclude' switch on your 'xsltproc' command line?
+MBX:WARNING: Unstructured content within a list item is being ignored ("(with Yasmine Bligaard, Saffron Wang, Ruby David-Jekyll)")
+             located within: "Net of Conics and Cubic Curves" (title)
+MBX:WARNING: Unstructured content within a list item is being ignored ("(with Yasmine Bligaard, Saffron Wang, Ruby David-Jekyll)")
+             located within: "Net of Conics and Cubic Curves" (title)
