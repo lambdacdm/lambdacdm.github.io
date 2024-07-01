@@ -88,7 +88,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "1.3",
   "title": "CV",
-  "body": " CV   My CV (curriculum vitae) can be found by clicking here .    Educational Background     Sep 2023 - Now (PhD) The University of Edinburgh School of Mathematics (Hodge Institute)     Oct 2022 - Jun 2023 (MASt) University of Cambridge Department of Pure Mathematics and Mathematical Statistics     Sep 2020 - May 2022 (BSc) The University of Edinburgh School of Mathematics     Sep 2018 - Jun 2020 (BSc) South China University of Technology School of Mathematics      Recent Activities (Conferences)  I have attended \/ will attend the following conferences.     The Mordell conjecture 100 years later 8-12 July 2024, MIT, US       Gauge Fields in Arithmetic, Topology and Physics 15-19 Apr 2024, ICMS, Edinburgh, UK       Winter Workshop Chabauty-Kim 2024 14-16 Feb 2024, Heidelberg University, Germany     "
+  "body": " CV   My CV (curriculum vitae) can be found by clicking here .    Educational Background     Sep 2023 - Now (PhD) The University of Edinburgh School of Mathematics (Hodge Institute)     Oct 2022 - Jun 2023 (MASt) University of Cambridge Department of Pure Mathematics and Mathematical Statistics     Sep 2020 - May 2022 (BSc) The University of Edinburgh School of Mathematics     Sep 2018 - Jun 2020 (BSc) South China University of Technology School of Mathematics      Recent Activities (Conferences)  I have attended \/ will attend the following conferences.     Young Researchers in Algebraic Number Theory VI 31 July - 2 Aug 2024, University of Oxford, UK       The Mordell conjecture 100 years later 8-12 July 2024, MIT, US       Gauge Fields in Arithmetic, Topology and Physics 15-19 Apr 2024, ICMS, Edinburgh, UK       Winter Workshop Chabauty-Kim 2024 14-16 Feb 2024, Heidelberg University, Germany     "
 },
 {
   "id": "cv-2",
@@ -142,7 +142,7 @@ var ptx_lunr_docs = [
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "The Mordell conjecture 100 years later "
+  "body": "Young Researchers in Algebraic Number Theory VI "
 },
 {
   "id": "subsec-conference-4-1-1",
@@ -151,12 +151,21 @@ var ptx_lunr_docs = [
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "Gauge Fields in Arithmetic, Topology and Physics "
+  "body": "The Mordell conjecture 100 years later "
 },
 {
   "id": "subsec-conference-5-1-1",
   "level": "2",
   "url": "cv.html#subsec-conference-5-1-1",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Gauge Fields in Arithmetic, Topology and Physics "
+},
+{
+  "id": "subsec-conference-6-1-1",
+  "level": "2",
+  "url": "cv.html#subsec-conference-6-1-1",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
