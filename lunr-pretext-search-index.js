@@ -286,7 +286,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "1.6",
   "title": "Teaching",
-  "body": " Teaching   2023-2024 Semester 2  I'm currently tutoring two courses.    [ MATH08058 ] Calculus and its Applications    [ MATH10077 ] Algebraic Topology     "
+  "body": " Teaching   2023-2024 Semester 2  I tutored two courses.    [ MATH08058 ] Calculus and its Applications    [ MATH10077 ] Algebraic Topology      2024-2025 Semester 1  (to be determined)   "
 },
 {
   "id": "codes",
