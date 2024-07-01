@@ -1,1 +1,0 @@
-# lambdacdm.github.io
