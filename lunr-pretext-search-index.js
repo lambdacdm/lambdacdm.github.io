@@ -16,7 +16,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "1.1",
   "title": "Home",
-  "body": " Home  Welcome to my personal website! Here is the definition of me.  I'm Xiang Li 李想 , a first year math PhD student of algebra and number theory in the University of Edinburgh working with Prof. Minhyong Kim . My interests are in algebraic number theory and arithmetic geometry. To be more specific, I am interested in non-abelian Chabauty methods, which provide an efficient way to find rational points on a curve.   Am I the first person coming up with an idea to make the personal website look like a math book that contains definition\/remark etc.?   Contact me via s2132101@ed.ac.uk . And click here to see my CV (curriculum vitae). For more infos, click buttons on the sidebar.      The commutative diagram is called the Kim's cutter, which is Prof.Minhyong Kim's work and I'm trying to understand it.    The cursed curve, plotted using SageMath by Sachi Hashimoto    "
+  "body": " Home  Welcome to my personal website! Here is the definition of me.  I'm Xiang Li 李想 , a first year math PhD student of algebra and number theory in the University of Edinburgh working with Prof. Minhyong Kim . My interests are in algebraic number theory and arithmetic geometry. To be more specific, I am interested in non-abelian Chabauty methods, which provide an efficient way to find rational points on a curve.   Am I the first person coming up with an idea to make the personal website look like a math book that contains definition\/remark etc.?   Contact me via s2132101@ed.ac.uk . And click here to see my CV (curriculum vitae). For more infos, click buttons on the sidebar.      The cursed curve, plotted using SageMath by Sachi Hashimoto    "
 },
 {
   "id": "home-3",
@@ -169,7 +169,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "1.4",
   "title": "Writing",
-  "body": " Writing   Reports of Projects  Here lists my reports of some projects:     Tensor Category in Arithmetic, Geometry and Physics (Dec 2023, GlaMS Group Project, with Julia Bierent, Gianni Gagliardo, Chun-Yu Bai)    The Modularity Theorem and the Modular Approach (May 2023, Part III Essay)    Net of Conics and Cubic Curves (Mar 2022, Undergraduate Final Year Project, with Yasmine Bligaard, Saffron Wang, Ruby David-Jekyll)    Algebra Theorem Proving in Lean (Sep 2021, Undergraduate Summer Project)       Notes  Here are some of my notes (very informal).     Chabauty-Kim Methods     Hodge Structure  (with minor mistake)    Affine Group Scheme over a Field  (manuscript)    Dictionary of Algebraic Geometry    Root System    实变函数笔记 (Notes on Real Variables) (written in Chinese)    Riemann Surface (written in Chinese)     Also, you can see my posts on Zhihu 知乎 (written in Chinese).   "
+  "body": " Writing   Reports of Projects  Here lists my reports of some projects:     Tensor Category in Arithmetic, Geometry and Physics (Dec 2023, GlaMS Group Project, with Julia Bierent, Gianni Gagliardo, Chun-Yu Bai)    The Modularity Theorem and the Modular Approach (May 2023, Part III Essay)    Net of Conics and Cubic Curves (Mar 2022, Undergraduate Final Year Project, with Yasmine Bligaard, Saffron Wang, Ruby David-Jekyll)    Algebra Theorem Proving in Lean (Sep 2021, Undergraduate Summer Project)       Notes  Here are some of my notes (very informal).      Rigid Geometry (unfinished)    Chabauty-Kim Methods     Hodge Structure  (with minor mistake)    Affine Group Scheme over a Field  (manuscript)    Dictionary of Algebraic Geometry    Root System    实变函数笔记 (Notes on Real Variables) (written in Chinese)    Riemann Surface (written in Chinese)     Also, you can see my posts on Zhihu 知乎 (written in Chinese).   "
 },
 {
   "id": "writing-2-3-1-1-1",
@@ -214,7 +214,7 @@ var ptx_lunr_docs = [
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "Chabauty-Kim Methods "
+  "body": "Rigid Geometry "
 },
 {
   "id": "writing-3-3-1-2-1",
@@ -223,7 +223,7 @@ var ptx_lunr_docs = [
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "Hodge Structure  "
+  "body": "Chabauty-Kim Methods "
 },
 {
   "id": "writing-3-3-1-3-1",
@@ -232,7 +232,7 @@ var ptx_lunr_docs = [
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "Affine Group Scheme over a Field  "
+  "body": "Hodge Structure  "
 },
 {
   "id": "writing-3-3-1-4-1",
@@ -241,7 +241,7 @@ var ptx_lunr_docs = [
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "Dictionary of Algebraic Geometry "
+  "body": "Affine Group Scheme over a Field  "
 },
 {
   "id": "writing-3-3-1-5-1",
@@ -250,7 +250,7 @@ var ptx_lunr_docs = [
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "Root System "
+  "body": "Dictionary of Algebraic Geometry "
 },
 {
   "id": "writing-3-3-1-6-1",
@@ -259,12 +259,21 @@ var ptx_lunr_docs = [
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "实变函数笔记 (Notes on Real Variables) "
+  "body": "Root System "
 },
 {
   "id": "writing-3-3-1-7-1",
   "level": "2",
   "url": "writing.html#writing-3-3-1-7-1",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "实变函数笔记 (Notes on Real Variables) "
+},
+{
+  "id": "writing-3-3-1-8-1",
+  "level": "2",
+  "url": "writing.html#writing-3-3-1-8-1",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
