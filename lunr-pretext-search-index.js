@@ -295,7 +295,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "1.5",
   "title": "Talks",
-  "body": " Talks   Upcoming Talks  There is no upcoming talk.    Past Talks    Tannakian Category, Unipotent Completion, and de Rham Fundamental Group   1 Dec 2023, 10:45-11:15, ICMS     It's an Examples Showcase in GlaMS .        Euler's Totient Theorem and the Prime Number Theorem (with Ella Yu)  16 Feb 2023, 16:00-17:00, Zoom\/Huxley 410 Imperial College  It's a seminar of London Learning Lean . Watch the recording here .     "
+  "body": " Talks   Upcoming Talks    S-unit Equations and Chabauty-Kim Methods    31 July 2024 - 2 Aug 2024 (exact date and time to be confirmed), University of Oxford       Young Researchers in Algebraic Number Theory VI      >   Past Talks    Tannakian Category, Unipotent Completion, and de Rham Fundamental Group   1 Dec 2023, 10:45-11:15, ICMS     It's an Examples Showcase in GlaMS .        Euler's Totient Theorem and the Prime Number Theorem (with Ella Yu)  16 Feb 2023, 16:00-17:00, Zoom\/Huxley 410 Imperial College  It's a seminar of London Learning Lean . Watch the recording here . See the slides here .     "
 },
 {
   "id": "teaching",
@@ -313,7 +313,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "1.7",
   "title": "Codes",
-  "body": " Codes    LEAN is a proof assistant, which allows people to write the proof of theorems in a computer programme language. See the website of LEAN community .  A team of me, Huajian Xin, Ella Yu and others attempted to prove the prime number theorem on LEAN. See our Github repository . Ella Yu and I gave a talk about this project on a seminar of London Learning Lean held by Imperial College. Watch the recording here .    Numerical Library of Mathematics Algorithm  I made a simple C++ library for numerical algorithms such as solving linear systems, integrals, differential equations and so on numerically. See my Github repository .   "
+  "body": " Codes    LEAN is a proof assistant, which allows people to write the proof of theorems in a computer programme language. See the website of LEAN community .  A team of me, Huajian Xin, Ella Yu and others attempted to prove the prime number theorem on LEAN. See our Github repository . Ella Yu and I gave a talk about this project on a seminar of London Learning Lean held by Imperial College. Watch the recording here . See the slides here .    Numerical Library of Mathematics Algorithm  I made a simple C++ library for numerical algorithms such as solving linear systems, integrals, differential equations and so on numerically. See my Github repository .   "
 }
 ]
 
