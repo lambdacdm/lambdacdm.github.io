@@ -52,7 +52,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "1.2",
   "title": "Contact",
-  "body": " Contact    I can be contacted in the following ways:  University Email: s2132101@ed.ac.uk  Personal Email: lxqd2021@outlook.com  Github: lambdacdm  Discord\/Steam\/Spotify: lxqd2021  知乎\/b站\/网易云音乐: 寨森CDM       Just contact me if you wish!   In workdays, you can find me on the fifth floor of the Bayes Centre of the University of Edinburgh. The address of the Bayes Centre is 47 Potterrow, Edinburgh, United Kingdom, EH8 9BT (or find the address in Google map by clicking here ).  "
+  "body": " Contact    I can be contacted in the following ways:  University Email: s2132101@ed.ac.uk  Personal Email: lxqd2021@outlook.com  Github: lambdacdm       Just contact me if you wish!   In workdays, you can find me on the fifth floor of the Bayes Centre of the University of Edinburgh. The address of the Bayes Centre is 47 Potterrow, Edinburgh, United Kingdom, EH8 9BT (or find the address in Google map by clicking here ).  "
 },
 {
   "id": "thm-",
@@ -61,7 +61,7 @@ var ptx_lunr_docs = [
   "type": "Proposition",
   "number": "1.2.1",
   "title": "",
-  "body": "  I can be contacted in the following ways:  University Email: s2132101@ed.ac.uk  Personal Email: lxqd2021@outlook.com  Github: lambdacdm  Discord\/Steam\/Spotify: lxqd2021  知乎\/b站\/网易云音乐: 寨森CDM     "
+  "body": "  I can be contacted in the following ways:  University Email: s2132101@ed.ac.uk  Personal Email: lxqd2021@outlook.com  Github: lambdacdm     "
 },
 {
   "id": "contact-3",
@@ -88,7 +88,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "1.3",
   "title": "CV",
-  "body": " CV   My CV (curriculum vitae) can be found by clicking here .    Educational Background     Sep 2023 - Now (PhD) The University of Edinburgh School of Mathematics (Hodge Institute)     Oct 2022 - Jun 2023 (MASt) University of Cambridge Department of Pure Mathematics and Mathematical Statistics     Sep 2020 - May 2022 (BSc) The University of Edinburgh School of Mathematics     Sep 2018 - Jun 2020 (BSc) South China University of Technology School of Mathematics      Recent Activities (Conferences)  I have attended \/ will attend the following conferences.     Young Researchers in Algebraic Number Theory VI 31 July - 2 Aug 2024, University of Oxford, UK       The Mordell conjecture 100 years later 8-12 July 2024, MIT, US       Gauge Fields in Arithmetic, Topology and Physics 15-19 Apr 2024, ICMS, Edinburgh, UK       Winter Workshop Chabauty-Kim 2024 14-16 Feb 2024, Heidelberg University, Germany     "
+  "body": " CV   My CV (curriculum vitae) can be found by clicking here .    Educational Background     Sep 2023 - Now (PhD) The University of Edinburgh School of Mathematics (Hodge Institute)     Oct 2022 - Jun 2023 (MASt) University of Cambridge Department of Pure Mathematics and Mathematical Statistics     Sep 2020 - May 2022 (BSc) The University of Edinburgh School of Mathematics     Sep 2018 - Jun 2020 (BSc) South China University of Technology School of Mathematics     "
 },
 {
   "id": "cv-2",
@@ -134,42 +134,6 @@ var ptx_lunr_docs = [
   "number": "",
   "title": "",
   "body": "Sep 2018 - Jun 2020 (BSc) South China University of Technology "
-},
-{
-  "id": "subsec-conference-3-1-1",
-  "level": "2",
-  "url": "cv.html#subsec-conference-3-1-1",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "Young Researchers in Algebraic Number Theory VI "
-},
-{
-  "id": "subsec-conference-4-1-1",
-  "level": "2",
-  "url": "cv.html#subsec-conference-4-1-1",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "The Mordell conjecture 100 years later "
-},
-{
-  "id": "subsec-conference-5-1-1",
-  "level": "2",
-  "url": "cv.html#subsec-conference-5-1-1",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "Gauge Fields in Arithmetic, Topology and Physics "
-},
-{
-  "id": "subsec-conference-6-1-1",
-  "level": "2",
-  "url": "cv.html#subsec-conference-6-1-1",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "Winter Workshop Chabauty-Kim 2024 "
 },
 {
   "id": "writing",
@@ -295,23 +259,68 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "1.5",
   "title": "Talks",
-  "body": " Talks   Upcoming Talks    S-unit Equations and Chabauty-Kim Methods    31 July 2024 - 2 Aug 2024 (exact date and time to be confirmed), University of Oxford       Young Researchers in Algebraic Number Theory VI      >   Past Talks    Tannakian Category, Unipotent Completion, and de Rham Fundamental Group   1 Dec 2023, 10:45-11:15, ICMS     It's an Examples Showcase in GlaMS .        Euler's Totient Theorem and the Prime Number Theorem (with Ella Yu)  16 Feb 2023, 16:00-17:00, Zoom\/Huxley 410 Imperial College  It's a seminar of London Learning Lean . Watch the recording here . See the slides here .     "
+  "body": " Talks   Upcoming Talks    Introduction to Chabauty-Kim Methods on S-unit Equations    31 July 2024 - 2 Aug 2024 (exact date and time to be confirmed), University of Oxford       Young Researchers in Algebraic Number Theory VI      >   Past Talks    Tannakian Category, Unipotent Completion, and de Rham Fundamental Group   1 Dec 2023, 10:45-11:15, ICMS     It's an Examples Showcase in GlaMS .        Euler's Totient Theorem and the Prime Number Theorem (with Ella Yu)  16 Feb 2023, 16:00-17:00, Zoom\/Huxley 410 Imperial College  It's a seminar of London Learning Lean . Watch the recording here . See the slides here .     "
+},
+{
+  "id": "travel",
+  "level": "1",
+  "url": "travel.html",
+  "type": "Section",
+  "number": "1.6",
+  "title": "Travel",
+  "body": " Travel  I have attended \/ will attend the following conferences.     Young Researchers in Algebraic Number Theory VI 31 July - 2 Aug 2024, University of Oxford, UK       The Mordell conjecture 100 years later 8-12 July 2024, MIT, US       Gauge Fields in Arithmetic, Topology and Physics 15-19 Apr 2024, ICMS, Edinburgh, UK       Winter Workshop Chabauty-Kim 2024 14-16 Feb 2024, Heidelberg University, Germany    "
+},
+{
+  "id": "travel-3-1-1",
+  "level": "2",
+  "url": "travel.html#travel-3-1-1",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Young Researchers in Algebraic Number Theory VI "
+},
+{
+  "id": "travel-4-1-1",
+  "level": "2",
+  "url": "travel.html#travel-4-1-1",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "The Mordell conjecture 100 years later "
+},
+{
+  "id": "travel-5-1-1",
+  "level": "2",
+  "url": "travel.html#travel-5-1-1",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Gauge Fields in Arithmetic, Topology and Physics "
+},
+{
+  "id": "travel-6-1-1",
+  "level": "2",
+  "url": "travel.html#travel-6-1-1",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Winter Workshop Chabauty-Kim 2024 "
 },
 {
   "id": "teaching",
   "level": "1",
   "url": "teaching.html",
   "type": "Section",
-  "number": "1.6",
+  "number": "1.7",
   "title": "Teaching",
-  "body": " Teaching   2023-2024 Semester 2  I tutored two courses.    [ MATH08058 ] Calculus and its Applications    [ MATH10077 ] Algebraic Topology      2024-2025 Semester 1  (to be determined)   "
+  "body": " Teaching   2024-2025 Semester 1  (to be determined)    2023-2024 Semester 2  I tutored two courses.    [ MATH08058 ] Calculus and its Applications    [ MATH10077 ] Algebraic Topology     "
 },
 {
   "id": "codes",
   "level": "1",
   "url": "codes.html",
   "type": "Section",
-  "number": "1.7",
+  "number": "1.8",
   "title": "Codes",
   "body": " Codes    LEAN is a proof assistant, which allows people to write the proof of theorems in a computer programme language. See the website of LEAN community .  A team of me, Huajian Xin, Ella Yu and others attempted to prove the prime number theorem on LEAN. See our Github repository . Ella Yu and I gave a talk about this project on a seminar of London Learning Lean held by Imperial College. Watch the recording here . See the slides here .    Numerical Library of Mathematics Algorithm  I made a simple C++ library for numerical algorithms such as solving linear systems, integrals, differential equations and so on numerically. See my Github repository .   "
 }
