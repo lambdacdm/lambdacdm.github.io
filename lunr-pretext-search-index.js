@@ -16,7 +16,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "1.1",
   "title": "Home",
-  "body": " Home  Welcome to my personal website! Here is the definition of me.  I'm Xiang Li 李想 , a first year math PhD student of algebra and number theory in the University of Edinburgh working with Prof. Minhyong Kim . My interests are in algebraic number theory and arithmetic geometry. To be more specific, I am interested in non-abelian Chabauty methods, which provide an efficient way to find rational points on a curve.   Am I the first person coming up with an idea to make the personal website look like a math book that contains definition\/remark etc.?   Contact me via s2132101@ed.ac.uk . And click here to see my CV (curriculum vitae). For more infos, click buttons on the sidebar.      The cursed curve, plotted using SageMath by Sachi Hashimoto    "
+  "body": " Home  Welcome to my personal website! Here is the definition of me.  I'm Xiang Li 李想 , a math PhD student of algebra and number theory in the University of Edinburgh working with Prof. Minhyong Kim since 2023. My interests are in algebraic number theory and arithmetic geometry. To be more specific, I am interested in non-abelian Chabauty methods, which provide an efficient way to find rational points on a curve.   Am I the first person coming up with an idea to make the personal website look like a math book that contains definition\/remark etc.?   I'm also a member of Hodge Institute . And click here to see my CV (curriculum vitae). For more infos, click buttons on the sidebar.      The cursed curve, plotted using SageMath by Sachi Hashimoto    "
 },
 {
   "id": "home-3",
@@ -25,7 +25,7 @@ var ptx_lunr_docs = [
   "type": "Definition",
   "number": "1.1.1",
   "title": "",
-  "body": "I'm Xiang Li 李想 , a first year math PhD student of algebra and number theory in the University of Edinburgh working with Prof. Minhyong Kim . My interests are in algebraic number theory and arithmetic geometry. To be more specific, I am interested in non-abelian Chabauty methods, which provide an efficient way to find rational points on a curve. "
+  "body": "I'm Xiang Li 李想 , a math PhD student of algebra and number theory in the University of Edinburgh working with Prof. Minhyong Kim since 2023. My interests are in algebraic number theory and arithmetic geometry. To be more specific, I am interested in non-abelian Chabauty methods, which provide an efficient way to find rational points on a curve. "
 },
 {
   "id": "home-5",
@@ -34,7 +34,7 @@ var ptx_lunr_docs = [
   "type": "Remark",
   "number": "1.1.2",
   "title": "",
-  "body": "Contact me via s2132101@ed.ac.uk . And click here to see my CV (curriculum vitae). For more infos, click buttons on the sidebar. "
+  "body": "I'm also a member of Hodge Institute . And click here to see my CV (curriculum vitae). For more infos, click buttons on the sidebar. "
 },
 {
   "id": "fig-X13",
@@ -52,7 +52,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "1.2",
   "title": "Contact",
-  "body": " Contact    I can be contacted in the following ways:  University Email: s2132101@ed.ac.uk  Personal Email: lxqd2021@outlook.com  Github: lambdacdm       Just contact me if you wish!   In workdays, you can find me on the fifth floor of the Bayes Centre of the University of Edinburgh. The address of the Bayes Centre is 47 Potterrow, Edinburgh, United Kingdom, EH8 9BT (or find the address in Google map by clicking here ).  "
+  "body": " Contact    I can be contacted in the following ways:  Email: s2132101@ed.ac.uk  Github: lambdacdm       Just contact me if you wish!   In workdays, you can find me on the fifth floor of the Bayes Centre of the University of Edinburgh. The address of the Bayes Centre is 47 Potterrow, Edinburgh, United Kingdom, EH8 9BT (or find the address in Google map by clicking here ).  "
 },
 {
   "id": "thm-",
@@ -61,7 +61,7 @@ var ptx_lunr_docs = [
   "type": "Proposition",
   "number": "1.2.1",
   "title": "",
-  "body": "  I can be contacted in the following ways:  University Email: s2132101@ed.ac.uk  Personal Email: lxqd2021@outlook.com  Github: lambdacdm     "
+  "body": "  I can be contacted in the following ways:  Email: s2132101@ed.ac.uk  Github: lambdacdm     "
 },
 {
   "id": "contact-3",
@@ -259,7 +259,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "1.5",
   "title": "Talks",
-  "body": " Talks   Upcoming Talks    Introduction to Chabauty-Kim Methods on S-unit Equations    31 July 2024 - 2 Aug 2024 (exact date and time to be confirmed), University of Oxford       Young Researchers in Algebraic Number Theory VI      >   Past Talks    Tannakian Category, Unipotent Completion, and de Rham Fundamental Group   1 Dec 2023, 10:45-11:15, ICMS     It's an Examples Showcase in GlaMS .        Euler's Totient Theorem and the Prime Number Theorem (with Ella Yu)  16 Feb 2023, 16:00-17:00, Zoom\/Huxley 410 Imperial College  It's a seminar of London Learning Lean . Watch the recording here . See the slides here .     "
+  "body": " Talks   Upcoming Talks    Introduction to Chabauty-Kim Methods on S-unit Equations    2 Aug 2024, 14:30-15:00, TCC room Mathematical Institute, University of Oxford       Young Researchers in Algebraic Number Theory VI         Past Talks    Tannakian Category, Unipotent Completion, and de Rham Fundamental Group   1 Dec 2023, 10:45-11:15, ICMS     It's an Examples Showcase in GlaMS .        Euler's Totient Theorem and the Prime Number Theorem (with Ella Yu)  16 Feb 2023, 16:00-17:00, Zoom\/Huxley 410, Imperial College  It's a seminar of London Learning Lean . Watch the recording here . See the slides here .     "
 },
 {
   "id": "travel",
@@ -268,7 +268,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "1.6",
   "title": "Travel",
-  "body": " Travel  I have attended \/ will attend the following conferences.     Young Researchers in Algebraic Number Theory VI 31 July - 2 Aug 2024, University of Oxford, UK       The Mordell conjecture 100 years later 8-12 July 2024, MIT, US       Gauge Fields in Arithmetic, Topology and Physics 15-19 Apr 2024, ICMS, Edinburgh, UK       Winter Workshop Chabauty-Kim 2024 14-16 Feb 2024, Heidelberg University, Germany    "
+  "body": " Travel  I have attended \/ will attend the following conferences.     Young Researchers in Algebraic Number Theory VI 31 Jul - 2 Aug 2024, University of Oxford, UK       The Mordell conjecture 100 years later 8-12 Jul 2024, MIT, US       Gauge Fields in Arithmetic, Topology and Physics 15-19 Apr 2024, ICMS, Edinburgh, UK       Winter Workshop Chabauty-Kim 2024 14-16 Feb 2024, Heidelberg University, Germany    "
 },
 {
   "id": "travel-3-1-1",
