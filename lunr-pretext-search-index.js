@@ -259,7 +259,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "1.5",
   "title": "Talks",
-  "body": " Talks   Upcoming Talks    Introduction to Chabauty-Kim Methods on S-unit Equations    2 Aug 2024, 14:30-15:00, TCC room Mathematical Institute, University of Oxford       Young Researchers in Algebraic Number Theory VI         Past Talks    Tannakian Category, Unipotent Completion, and de Rham Fundamental Group   1 Dec 2023, 10:45-11:15, ICMS     It's an Examples Showcase in GlaMS .        Euler's Totient Theorem and the Prime Number Theorem (with Ella Yu)  16 Feb 2023, 16:00-17:00, Zoom\/Huxley 410, Imperial College  It's a seminar of London Learning Lean . Watch the recording here . See the slides here .     "
+  "body": " Talks   Upcoming Talks  (no upcoming talks)    Past Talks    Introduction to Chabauty-Kim Methods on S-unit Equations    2 Aug 2024, 14:30-15:00, TCC room Mathematical Institute, University of Oxford       Young Researchers in Algebraic Number Theory VI         Tannakian Category, Unipotent Completion, and de Rham Fundamental Group   1 Dec 2023, 10:45-11:15, ICMS     It's an Examples Showcase in GlaMS .        Euler's Totient Theorem and the Prime Number Theorem (with Ella Yu)  16 Feb 2023, 16:00-17:00, Zoom\/Huxley 410, Imperial College  It's a seminar of London Learning Lean . Watch the recording here . See the slides here .     "
 },
 {
   "id": "travel",
@@ -268,7 +268,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "1.6",
   "title": "Travel",
-  "body": " Travel  I have attended \/ will attend the following conferences.     Young Researchers in Algebraic Number Theory VI 31 Jul - 2 Aug 2024, University of Oxford, UK       The Mordell conjecture 100 years later 8-12 Jul 2024, MIT, US       Gauge Fields in Arithmetic, Topology and Physics 15-19 Apr 2024, ICMS, Edinburgh, UK       Winter Workshop Chabauty-Kim 2024 14-16 Feb 2024, Heidelberg University, Germany    "
+  "body": " Travel  I have attended \/ will attend the following conferences.     Arithmetic, Geometry, Space and Time: A workshop on the occasion of Minhyong Kim's 61st birthday 25 - 29 Nov 2024, ICMS, Edinburgh, UK       Young Researchers in Algebraic Number Theory VI 31 Jul - 2 Aug 2024, University of Oxford, UK       The Mordell conjecture 100 years later 8 - 12 Jul 2024, MIT, US       Gauge Fields in Arithmetic, Topology and Physics 15 - 19 Apr 2024, ICMS, Edinburgh, UK       Winter Workshop Chabauty-Kim 2024 14 - 16 Feb 2024, Heidelberg University, Germany    "
 },
 {
   "id": "travel-3-1-1",
@@ -277,7 +277,7 @@ var ptx_lunr_docs = [
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "Young Researchers in Algebraic Number Theory VI "
+  "body": "Arithmetic, Geometry, Space and Time: A workshop on the occasion of Minhyong Kim's 61st birthday "
 },
 {
   "id": "travel-4-1-1",
@@ -286,7 +286,7 @@ var ptx_lunr_docs = [
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "The Mordell conjecture 100 years later "
+  "body": "Young Researchers in Algebraic Number Theory VI "
 },
 {
   "id": "travel-5-1-1",
@@ -295,12 +295,21 @@ var ptx_lunr_docs = [
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "Gauge Fields in Arithmetic, Topology and Physics "
+  "body": "The Mordell conjecture 100 years later "
 },
 {
   "id": "travel-6-1-1",
   "level": "2",
   "url": "travel.html#travel-6-1-1",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Gauge Fields in Arithmetic, Topology and Physics "
+},
+{
+  "id": "travel-7-1-1",
+  "level": "2",
+  "url": "travel.html#travel-7-1-1",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -313,7 +322,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "1.7",
   "title": "Teaching",
-  "body": " Teaching   2024-2025 Semester 1  (to be determined)    2023-2024 Semester 2  I tutored two courses.    [ MATH08058 ] Calculus and its Applications    [ MATH10077 ] Algebraic Topology     "
+  "body": " Teaching   2024-2025 Semester 1  I am currently tutoring the following course.    [ MATH08057 ] Introduction to Linear Algebra    Also, I am a tutor for the MathsBase .    2023-2024 Semester 2  I tutored two courses.    [ MATH08058 ] Calculus and its Applications    [ MATH10077 ] Algebraic Topology     "
 },
 {
   "id": "codes",
