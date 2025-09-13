@@ -1,22 +1,13 @@
 var ptx_lunr_search_style = "textbook";
 var ptx_lunr_docs = [
 {
-  "id": "xiangli-2",
-  "level": "1",
-  "url": "xiangli-2.html",
-  "type": "Front Matter",
-  "number": "",
-  "title": "Front Matter",
-  "body": "   李想    "
-},
-{
   "id": "home",
   "level": "1",
   "url": "home.html",
   "type": "Section",
   "number": "1.1",
   "title": "Home",
-  "body": " Home  Welcome to my personal website! Here is the definition of me.  I'm Xiang Li 李想 , a math PhD student of algebra and number theory in the University of Edinburgh working with Prof. Minhyong Kim since 2023. My interests are in algebraic number theory and arithmetic geometry. To be more specific, I am interested in non-abelian Chabauty methods, which provide an efficient way to find rational points on a curve.   Am I the first person coming up with an idea to make the personal website look like a math book that contains definition\/remark etc.?   I'm also a member of Hodge Institute . And click here to see my CV (curriculum vitae). For more infos, click buttons on the sidebar.      The cursed curve, plotted using SageMath by Sachi Hashimoto    "
+  "body": " Home  Welcome to my personal website! Here is the definition of me.    I'm Xiang Li 李想 , a math PhD student of algebra and number theory in the University of Edinburgh working with Prof. Minhyong Kim since 2023. My interests are in algebraic number theory and arithmetic geometry. To be more specific, I am interested in non-abelian Chabauty methods, which provide an efficient way to find rational points on a curve.     Am I the first person coming up with an idea to make the personal website look like a math book that contains definition\/remark etc.?     I can be contacted in the following ways:  Email: s2132101@ed.ac.uk  Github: lambdacdm       Just contact me if you wish!    In workdays, you can find me on the fifth floor of the Bayes Centre of the University of Edinburgh. The address of the Bayes Centre is 47 Potterrow, Edinburgh, United Kingdom, EH8 9BT (or find the address in Google map by clicking here ).     The cursed curve, plotted using SageMath by Sachi Hashimoto    "
 },
 {
   "id": "home-3",
@@ -25,311 +16,176 @@ var ptx_lunr_docs = [
   "type": "Definition",
   "number": "1.1.1",
   "title": "",
-  "body": "I'm Xiang Li 李想 , a math PhD student of algebra and number theory in the University of Edinburgh working with Prof. Minhyong Kim since 2023. My interests are in algebraic number theory and arithmetic geometry. To be more specific, I am interested in non-abelian Chabauty methods, which provide an efficient way to find rational points on a curve. "
+  "body": "  I'm Xiang Li 李想 , a math PhD student of algebra and number theory in the University of Edinburgh working with Prof. Minhyong Kim since 2023. My interests are in algebraic number theory and arithmetic geometry. To be more specific, I am interested in non-abelian Chabauty methods, which provide an efficient way to find rational points on a curve.   "
 },
 {
-  "id": "home-5",
+  "id": "contact-",
   "level": "2",
-  "url": "home.html#home-5",
-  "type": "Remark",
+  "url": "home.html#contact-",
+  "type": "Proposition",
   "number": "1.1.2",
   "title": "",
-  "body": "I'm also a member of Hodge Institute . And click here to see my CV (curriculum vitae). For more infos, click buttons on the sidebar. "
+  "body": "  I can be contacted in the following ways:  Email: s2132101@ed.ac.uk  Github: lambdacdm     "
+},
+{
+  "id": "home-6",
+  "level": "2",
+  "url": "home.html#home-6",
+  "type": "Proof",
+  "number": "1.1.1",
+  "title": "",
+  "body": " Just contact me if you wish!  "
+},
+{
+  "id": "home-7",
+  "level": "2",
+  "url": "home.html#home-7",
+  "type": "Remark",
+  "number": "1.1.3",
+  "title": "",
+  "body": " In workdays, you can find me on the fifth floor of the Bayes Centre of the University of Edinburgh. The address of the Bayes Centre is 47 Potterrow, Edinburgh, United Kingdom, EH8 9BT (or find the address in Google map by clicking here ).  "
 },
 {
   "id": "fig-X13",
   "level": "2",
   "url": "home.html#fig-X13",
   "type": "Figure",
-  "number": "1.1.3",
+  "number": "1.1.4",
   "title": "",
   "body": " The cursed curve, plotted using SageMath by Sachi Hashimoto   "
-},
-{
-  "id": "contact",
-  "level": "1",
-  "url": "contact.html",
-  "type": "Section",
-  "number": "1.2",
-  "title": "Contact",
-  "body": " Contact    I can be contacted in the following ways:  Email: s2132101@ed.ac.uk  Github: lambdacdm       Just contact me if you wish!   In workdays, you can find me on the fifth floor of the Bayes Centre of the University of Edinburgh. The address of the Bayes Centre is 47 Potterrow, Edinburgh, United Kingdom, EH8 9BT (or find the address in Google map by clicking here ).  "
-},
-{
-  "id": "thm-",
-  "level": "2",
-  "url": "contact.html#thm-",
-  "type": "Proposition",
-  "number": "1.2.1",
-  "title": "",
-  "body": "  I can be contacted in the following ways:  Email: s2132101@ed.ac.uk  Github: lambdacdm     "
-},
-{
-  "id": "contact-3",
-  "level": "2",
-  "url": "contact.html#contact-3",
-  "type": "Proof",
-  "number": "1.2.1",
-  "title": "",
-  "body": " Just contact me if you wish!  "
-},
-{
-  "id": "contact-4",
-  "level": "2",
-  "url": "contact.html#contact-4",
-  "type": "Remark",
-  "number": "1.2.2",
-  "title": "",
-  "body": "In workdays, you can find me on the fifth floor of the Bayes Centre of the University of Edinburgh. The address of the Bayes Centre is 47 Potterrow, Edinburgh, United Kingdom, EH8 9BT (or find the address in Google map by clicking here ). "
 },
 {
   "id": "cv",
   "level": "1",
   "url": "cv.html",
   "type": "Section",
-  "number": "1.3",
+  "number": "1.2",
   "title": "CV",
-  "body": " CV   My CV (curriculum vitae) can be found by clicking here .    Educational Background     Sep 2023 - Now (PhD) The University of Edinburgh School of Mathematics (Hodge Institute)     Oct 2022 - Jun 2023 (MASt) University of Cambridge Department of Pure Mathematics and Mathematical Statistics     Sep 2020 - May 2022 (BSc) The University of Edinburgh School of Mathematics     Sep 2018 - Jun 2020 (BSc) South China University of Technology School of Mathematics     "
+  "body": " CV   Education & Research Background     Sep 2023 - Now (PhD) The University of Edinburgh School of Mathematics (Hodge Institute)     Oct 2022 - Jun 2023 (MASt) University of Cambridge Department of Pure Mathematics and Mathematical Statistics     Sep 2020 - May 2022 (BSc) The University of Edinburgh School of Mathematics     Sep 2018 - Jun 2020 (BSc) South China University of Technology School of Mathematics     You can find my detailed CV (curriculum vitae) by clicking here .  "
 },
 {
   "id": "cv-2",
   "level": "2",
   "url": "cv.html#cv-2",
-  "type": "Lemma",
-  "number": "1.3.1",
-  "title": "",
-  "body": " My CV (curriculum vitae) can be found by clicking here .  "
+  "type": "List",
+  "number": "1.2.1",
+  "title": "Education &amp; Research Background",
+  "body": " Education & Research Background     Sep 2023 - Now (PhD) The University of Edinburgh School of Mathematics (Hodge Institute)     Oct 2022 - Jun 2023 (MASt) University of Cambridge Department of Pure Mathematics and Mathematical Statistics     Sep 2020 - May 2022 (BSc) The University of Edinburgh School of Mathematics     Sep 2018 - Jun 2020 (BSc) South China University of Technology School of Mathematics    "
 },
 {
-  "id": "subsecedu-2-1-1",
-  "level": "2",
-  "url": "cv.html#subsecedu-2-1-1",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "Sep 2023 - Now (PhD) The University of Edinburgh "
-},
-{
-  "id": "subsecedu-2-2-1",
-  "level": "2",
-  "url": "cv.html#subsecedu-2-2-1",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "Oct 2022 - Jun 2023 (MASt) University of Cambridge "
-},
-{
-  "id": "subsecedu-2-3-1",
-  "level": "2",
-  "url": "cv.html#subsecedu-2-3-1",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "Sep 2020 - May 2022 (BSc) The University of Edinburgh "
-},
-{
-  "id": "subsecedu-2-4-1",
-  "level": "2",
-  "url": "cv.html#subsecedu-2-4-1",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "Sep 2018 - Jun 2020 (BSc) South China University of Technology "
-},
-{
-  "id": "writing",
+  "id": "research",
   "level": "1",
-  "url": "writing.html",
+  "url": "research.html",
   "type": "Section",
-  "number": "1.4",
-  "title": "Writing",
-  "body": " Writing   Reports of Projects  Here lists my reports of some projects:     Tensor Category in Arithmetic, Geometry and Physics (Dec 2023, GlaMS Group Project, with Julia Bierent, Gianni Gagliardo, Chun-Yu Bai)    The Modularity Theorem and the Modular Approach (May 2023, Part III Essay)    Net of Conics and Cubic Curves (Mar 2022, Undergraduate Final Year Project, with Yasmine Bligaard, Saffron Wang, Ruby David-Jekyll)    Algebra Theorem Proving in Lean (Sep 2021, Undergraduate Summer Project)       Notes  Here are some of my notes (very informal).      Rigid Geometry (unfinished)    Chabauty-Kim Methods     Hodge Structure  (with minor mistake)    Affine Group Scheme over a Field  (manuscript)    Dictionary of Algebraic Geometry    Root System    实变函数笔记 (Notes on Real Variables) (written in Chinese)    Riemann Surface (written in Chinese)     Also, you can see my posts on Zhihu 知乎 (written in Chinese).   "
+  "number": "1.3",
+  "title": "Research",
+  "body": " Research   Recent Research Interests  With Martin Lüdtke , we are extending the Chabauty–Kim method for the thrice-punctured line to number fields, in particular cyclotomic fields. We can show that Kim’s Conjecture holds for -points but the polylogarithmic quotient is insufficient to prove Kim’s Conjecture for integral points over imaginary quadratic fields different from .    Publications   Publication List     Polylogarithmic Chabauty-Kim Loci over Imaginary Quadratic Fields with M. Lüdtke, comming soon       Reports of Projects   Project List    Tensor Category in Arithmetic, Geometry and Physics (Dec 2023, GlaMS Group Project, with Julia Bierent, Gianni Gagliardo, Chun-Yu Bai)    The Modularity Theorem and the Modular Approach (May 2023, Part III Essay)    Net of Conics and Cubic Curves (Mar 2022, Undergraduate Final Year Project, with Yasmine Bligaard, Saffron Wang, Ruby David-Jekyll)    Algebra Theorem Proving in Lean (Sep 2021, Undergraduate Summer Project)       "
 },
 {
-  "id": "writing-2-3-1-1-1",
+  "id": "subsec-Publications-2",
   "level": "2",
-  "url": "writing.html#writing-2-3-1-1-1",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "Tensor Category in Arithmetic, Geometry and Physics "
+  "url": "research.html#subsec-Publications-2",
+  "type": "List",
+  "number": "1.3.1",
+  "title": "Publication List",
+  "body": " Publication List     Polylogarithmic Chabauty-Kim Loci over Imaginary Quadratic Fields with M. Lüdtke, comming soon    "
 },
 {
-  "id": "writing-2-3-1-2-1",
+  "id": "research-4-2",
   "level": "2",
-  "url": "writing.html#writing-2-3-1-2-1",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "The Modularity Theorem and the Modular Approach "
-},
-{
-  "id": "writing-2-3-1-3-1",
-  "level": "2",
-  "url": "writing.html#writing-2-3-1-3-1",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "Net of Conics and Cubic Curves "
-},
-{
-  "id": "writing-2-3-1-4-1",
-  "level": "2",
-  "url": "writing.html#writing-2-3-1-4-1",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "Algebra Theorem Proving in Lean "
-},
-{
-  "id": "writing-3-3-1-1-1",
-  "level": "2",
-  "url": "writing.html#writing-3-3-1-1-1",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "Rigid Geometry "
-},
-{
-  "id": "writing-3-3-1-2-1",
-  "level": "2",
-  "url": "writing.html#writing-3-3-1-2-1",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "Chabauty-Kim Methods "
-},
-{
-  "id": "writing-3-3-1-3-1",
-  "level": "2",
-  "url": "writing.html#writing-3-3-1-3-1",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "Hodge Structure  "
-},
-{
-  "id": "writing-3-3-1-4-1",
-  "level": "2",
-  "url": "writing.html#writing-3-3-1-4-1",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "Affine Group Scheme over a Field  "
-},
-{
-  "id": "writing-3-3-1-5-1",
-  "level": "2",
-  "url": "writing.html#writing-3-3-1-5-1",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "Dictionary of Algebraic Geometry "
-},
-{
-  "id": "writing-3-3-1-6-1",
-  "level": "2",
-  "url": "writing.html#writing-3-3-1-6-1",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "Root System "
-},
-{
-  "id": "writing-3-3-1-7-1",
-  "level": "2",
-  "url": "writing.html#writing-3-3-1-7-1",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "实变函数笔记 (Notes on Real Variables) "
-},
-{
-  "id": "writing-3-3-1-8-1",
-  "level": "2",
-  "url": "writing.html#writing-3-3-1-8-1",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "Riemann Surface "
+  "url": "research.html#research-4-2",
+  "type": "List",
+  "number": "1.3.2",
+  "title": "Project List",
+  "body": " Project List    Tensor Category in Arithmetic, Geometry and Physics (Dec 2023, GlaMS Group Project, with Julia Bierent, Gianni Gagliardo, Chun-Yu Bai)    The Modularity Theorem and the Modular Approach (May 2023, Part III Essay)    Net of Conics and Cubic Curves (Mar 2022, Undergraduate Final Year Project, with Yasmine Bligaard, Saffron Wang, Ruby David-Jekyll)    Algebra Theorem Proving in Lean (Sep 2021, Undergraduate Summer Project)    "
 },
 {
   "id": "talks",
   "level": "1",
   "url": "talks.html",
   "type": "Section",
-  "number": "1.5",
+  "number": "1.4",
   "title": "Talks",
-  "body": " Talks   Upcoming Talks  (no upcoming talks)    Past Talks    Introduction to Chabauty-Kim Methods on S-unit Equations    2 Aug 2024, 14:30-15:00, TCC room Mathematical Institute, University of Oxford       Young Researchers in Algebraic Number Theory VI         Tannakian Category, Unipotent Completion, and de Rham Fundamental Group   1 Dec 2023, 10:45-11:15, ICMS     It's an Examples Showcase in GlaMS .        Euler's Totient Theorem and the Prime Number Theorem (with Ella Yu)  16 Feb 2023, 16:00-17:00, Zoom\/Huxley 410, Imperial College  It's a seminar of London Learning Lean . Watch the recording here . See the slides here .     "
+  "body": " Talks   Talk List     S-integral Points on the Thrice-punctured Line over Cyclotomic Fields     5 Sep 2025, 15:00-15:30, C17 Pope Building, University of Nottingham    Young Researchers in Algebraic Number Theory VII       Rigid Geometry and Coleman Function     7 Feb 2025, 14:55-15:45, Room 110 School of Mathematics and Statistics, University of Glasgow    The GEARS seminar      Introduction to Chabauty-Kim Methods on S-unit Equations    2 Aug 2024, 14:30-15:00, TCC room Mathematical Institute, University of Oxford    Young Researchers in Algebraic Number Theory VI      Tannakian Category, Unipotent Completion, and de Rham Fundamental Group    1 Dec 2023, 10:45-11:15, ICMS    It's an Examples Showcase in GlaMS .       Euler's Totient Theorem and the Prime Number Theorem (with Ella Yu)    16 Feb 2023, 16:00-17:00, Zoom\/Huxley 410, Imperial College    It's a seminar of London Learning Lean . Watch the recording here . See the slides here .       "
+},
+{
+  "id": "talks-2",
+  "level": "2",
+  "url": "talks.html#talks-2",
+  "type": "List",
+  "number": "1.4.1",
+  "title": "Talk List",
+  "body": " Talk List     S-integral Points on the Thrice-punctured Line over Cyclotomic Fields     5 Sep 2025, 15:00-15:30, C17 Pope Building, University of Nottingham    Young Researchers in Algebraic Number Theory VII       Rigid Geometry and Coleman Function     7 Feb 2025, 14:55-15:45, Room 110 School of Mathematics and Statistics, University of Glasgow    The GEARS seminar      Introduction to Chabauty-Kim Methods on S-unit Equations    2 Aug 2024, 14:30-15:00, TCC room Mathematical Institute, University of Oxford    Young Researchers in Algebraic Number Theory VI      Tannakian Category, Unipotent Completion, and de Rham Fundamental Group    1 Dec 2023, 10:45-11:15, ICMS    It's an Examples Showcase in GlaMS .       Euler's Totient Theorem and the Prime Number Theorem (with Ella Yu)    16 Feb 2023, 16:00-17:00, Zoom\/Huxley 410, Imperial College    It's a seminar of London Learning Lean . Watch the recording here . See the slides here .      "
 },
 {
   "id": "travel",
   "level": "1",
   "url": "travel.html",
   "type": "Section",
-  "number": "1.6",
+  "number": "1.5",
   "title": "Travel",
-  "body": " Travel  I have attended \/ will attend the following conferences.     Arithmetic, Geometry, Space and Time: A workshop on the occasion of Minhyong Kim's 61st birthday 25 - 29 Nov 2024, ICMS, Edinburgh, UK       Young Researchers in Algebraic Number Theory VI 31 Jul - 2 Aug 2024, University of Oxford, UK       The Mordell conjecture 100 years later 8 - 12 Jul 2024, MIT, US       Gauge Fields in Arithmetic, Topology and Physics 15 - 19 Apr 2024, ICMS, Edinburgh, UK       Winter Workshop Chabauty-Kim 2024 14 - 16 Feb 2024, Heidelberg University, Germany    "
+  "body": " Travel  Conference List     Young Researchers in Algebraic Number Theory VII 3 Sep - 5 Sep 2025, University of Nottingham, UK     The GEARS seminar 7 Feb 2025, University of Glasgow, UK     Arithmetic, Geometry, Space and Time: A workshop on the occasion of Minhyong Kim's 61st birthday 25 - 29 Nov 2024, ICMS, Edinburgh, UK     Young Researchers in Algebraic Number Theory VI 31 Jul - 2 Aug 2024, University of Oxford, UK     The Mordell conjecture 100 years later 8 - 12 Jul 2024, MIT, US     Gauge Fields in Arithmetic, Topology and Physics 15 - 19 Apr 2024, ICMS, Edinburgh, UK     Winter Workshop Chabauty-Kim 2024 14 - 16 Feb 2024, Heidelberg University, Germany     "
 },
 {
-  "id": "travel-3-1-1",
+  "id": "travel-2",
   "level": "2",
-  "url": "travel.html#travel-3-1-1",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "Arithmetic, Geometry, Space and Time: A workshop on the occasion of Minhyong Kim's 61st birthday "
-},
-{
-  "id": "travel-4-1-1",
-  "level": "2",
-  "url": "travel.html#travel-4-1-1",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "Young Researchers in Algebraic Number Theory VI "
-},
-{
-  "id": "travel-5-1-1",
-  "level": "2",
-  "url": "travel.html#travel-5-1-1",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "The Mordell conjecture 100 years later "
-},
-{
-  "id": "travel-6-1-1",
-  "level": "2",
-  "url": "travel.html#travel-6-1-1",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "Gauge Fields in Arithmetic, Topology and Physics "
-},
-{
-  "id": "travel-7-1-1",
-  "level": "2",
-  "url": "travel.html#travel-7-1-1",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "Winter Workshop Chabauty-Kim 2024 "
+  "url": "travel.html#travel-2",
+  "type": "List",
+  "number": "1.5.1",
+  "title": "Conference List",
+  "body": "Conference List     Young Researchers in Algebraic Number Theory VII 3 Sep - 5 Sep 2025, University of Nottingham, UK     The GEARS seminar 7 Feb 2025, University of Glasgow, UK     Arithmetic, Geometry, Space and Time: A workshop on the occasion of Minhyong Kim's 61st birthday 25 - 29 Nov 2024, ICMS, Edinburgh, UK     Young Researchers in Algebraic Number Theory VI 31 Jul - 2 Aug 2024, University of Oxford, UK     The Mordell conjecture 100 years later 8 - 12 Jul 2024, MIT, US     Gauge Fields in Arithmetic, Topology and Physics 15 - 19 Apr 2024, ICMS, Edinburgh, UK     Winter Workshop Chabauty-Kim 2024 14 - 16 Feb 2024, Heidelberg University, Germany    "
 },
 {
   "id": "teaching",
   "level": "1",
   "url": "teaching.html",
   "type": "Section",
-  "number": "1.7",
+  "number": "1.6",
   "title": "Teaching",
-  "body": " Teaching   2024-2025 Semester 1  I am currently tutoring the following course.    [ MATH08057 ] Introduction to Linear Algebra    Also, I am a tutor for the MathsBase .    2023-2024 Semester 2  I tutored two courses.    [ MATH08058 ] Calculus and its Applications    [ MATH10077 ] Algebraic Topology     "
+  "body": " Teaching   Current Tutoring   2025-2026 Semester 1    [ MATH08078 ] Introduction to Mathematics at University       Past Tutoring   2024-2025 Semester 2    [ MATH08059 ] Proofs and Problem Solving    [ MATH08064 ] Fundamentals of Pure Mathematics      2024-2025 Semester 1    [ MATH08057 ] Introduction to Linear Algebra    Also, I am a tutor for the MathsBase .      2023-2024 Semester 2    [ MATH08058 ] Calculus and its Applications    [ MATH10077 ] Algebraic Topology      "
+},
+{
+  "id": "teaching-2-2",
+  "level": "2",
+  "url": "teaching.html#teaching-2-2",
+  "type": "List",
+  "number": "1.6.1",
+  "title": "2025-2026 Semester 1",
+  "body": " 2025-2026 Semester 1    [ MATH08078 ] Introduction to Mathematics at University    "
+},
+{
+  "id": "teaching-3-2",
+  "level": "2",
+  "url": "teaching.html#teaching-3-2",
+  "type": "List",
+  "number": "1.6.2",
+  "title": "2024-2025 Semester 2",
+  "body": " 2024-2025 Semester 2    [ MATH08059 ] Proofs and Problem Solving    [ MATH08064 ] Fundamentals of Pure Mathematics    "
+},
+{
+  "id": "teaching-3-3",
+  "level": "2",
+  "url": "teaching.html#teaching-3-3",
+  "type": "List",
+  "number": "1.6.3",
+  "title": "2024-2025 Semester 1",
+  "body": " 2024-2025 Semester 1    [ MATH08057 ] Introduction to Linear Algebra    Also, I am a tutor for the MathsBase .    "
+},
+{
+  "id": "teaching-3-4",
+  "level": "2",
+  "url": "teaching.html#teaching-3-4",
+  "type": "List",
+  "number": "1.6.4",
+  "title": "2023-2024 Semester 2",
+  "body": " 2023-2024 Semester 2    [ MATH08058 ] Calculus and its Applications    [ MATH10077 ] Algebraic Topology    "
 },
 {
   "id": "codes",
   "level": "1",
   "url": "codes.html",
   "type": "Section",
-  "number": "1.8",
+  "number": "1.7",
   "title": "Codes",
   "body": " Codes    LEAN is a proof assistant, which allows people to write the proof of theorems in a computer programme language. See the website of LEAN community .  A team of me, Huajian Xin, Ella Yu and others attempted to prove the prime number theorem on LEAN. See our Github repository . Ella Yu and I gave a talk about this project on a seminar of London Learning Lean held by Imperial College. Watch the recording here . See the slides here .    Numerical Library of Mathematics Algorithm  I made a simple C++ library for numerical algorithms such as solving linear systems, integrals, differential equations and so on numerically. See my Github repository .   "
 }
