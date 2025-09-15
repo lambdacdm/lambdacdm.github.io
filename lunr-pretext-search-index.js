@@ -79,7 +79,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "1.3",
   "title": "Research",
-  "body": " Research   Recent Research Interests  With Martin Lüdtke , we are extending the Chabauty–Kim method for the thrice-punctured line to number fields, in particular cyclotomic fields. We can show that Kim’s Conjecture holds for -points but the polylogarithmic quotient is insufficient to prove Kim’s Conjecture for integral points over imaginary quadratic fields different from .    Publications   Publication List     Polylogarithmic Chabauty-Kim Loci over Imaginary Quadratic Fields with M. Lüdtke, coming soon       Reports of Projects   Project List    Tensor Category in Arithmetic, Geometry and Physics (Dec 2023, GlaMS Group Project, with Julia Bierent, Gianni Gagliardo, Chun-Yu Bai)    The Modularity Theorem and the Modular Approach (May 2023, Part III Essay)    Net of Conics and Cubic Curves (Mar 2022, Undergraduate Final Year Project, with Yasmine Bligaard, Saffron Wang, Ruby David-Jekyll)    Algebra Theorem Proving in Lean (Sep 2021, Undergraduate Summer Project)       "
+  "body": " Research   Recent Research Interests  With Martin Lüdtke , we are extending the Chabauty–Kim method for the thrice-punctured line to number fields, in particular cyclotomic fields. We can show that Kim’s Conjecture holds for -points but the polylogarithmic quotient is insufficient to prove Kim’s Conjecture for integral points over imaginary quadratic fields different from .    Publications   Publication List     Polylogarithmic Chabauty-Kim Loci over Imaginary Quadratic Fields with Martin Lüdtke, coming soon       Reports of Projects   Project List    Tensor Category in Arithmetic, Geometry and Physics (Dec 2023, GlaMS Group Project, with Julia Bierent, Gianni Gagliardo, Chun-Yu Bai)    The Modularity Theorem and the Modular Approach (May 2023, Part III Essay)    Net of Conics and Cubic Curves (Mar 2022, Undergraduate Final Year Project, with Yasmine Bligaard, Saffron Wang, Ruby David-Jekyll)    Algebra Theorem Proving in Lean (Sep 2021, Undergraduate Summer Project)       "
 },
 {
   "id": "subsec-Publications-2",
@@ -88,7 +88,7 @@ var ptx_lunr_docs = [
   "type": "List",
   "number": "1.3.1",
   "title": "Publication List",
-  "body": " Publication List     Polylogarithmic Chabauty-Kim Loci over Imaginary Quadratic Fields with M. Lüdtke, coming soon    "
+  "body": " Publication List     Polylogarithmic Chabauty-Kim Loci over Imaginary Quadratic Fields with Martin Lüdtke, coming soon    "
 },
 {
   "id": "research-4-2",
