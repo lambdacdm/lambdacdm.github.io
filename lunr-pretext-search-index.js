@@ -124,7 +124,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "1.5",
   "title": "Travel",
-  "body": " Travel  Conference List     Young Researchers in Algebraic Number Theory VII 3 Sep - 5 Sep 2025, University of Nottingham, UK     The GEARS seminar 7 Feb 2025, University of Glasgow, UK     Arithmetic, Geometry, Space and Time: A workshop on the occasion of Minhyong Kim's 61st birthday 25 - 29 Nov 2024, ICMS, Edinburgh, UK     Young Researchers in Algebraic Number Theory VI 31 Jul - 2 Aug 2024, University of Oxford, UK     The Mordell conjecture 100 years later 8 - 12 Jul 2024, MIT, US     Gauge Fields in Arithmetic, Topology and Physics 15 - 19 Apr 2024, ICMS, Edinburgh, UK     Winter Workshop Chabauty-Kim 2024 14 - 16 Feb 2024, Heidelberg University, Germany     "
+  "body": " Travel  Conference List     Seventeenth Algorithmic Number Theory Symposium 6 Jul - 10 Jul 2026, Bernoulli Institute, Netherlands     Chabauty 29 Jun - 7 Jul 2026, Max Planck Institutes for Mathematics, Germany     Young Researchers in Algebraic Number Theory VII 3 Sep - 5 Sep 2025, University of Nottingham, UK     The GEARS seminar 7 Feb 2025, University of Glasgow, UK     Arithmetic, Geometry, Space and Time: A workshop on the occasion of Minhyong Kim's 61st birthday 25 - 29 Nov 2024, ICMS, Edinburgh, UK     Young Researchers in Algebraic Number Theory VI 31 Jul - 2 Aug 2024, University of Oxford, UK     The Mordell conjecture 100 years later 8 - 12 Jul 2024, MIT, US     Gauge Fields in Arithmetic, Topology and Physics 15 - 19 Apr 2024, ICMS, Edinburgh, UK     Winter Workshop Chabauty-Kim 2024 14 - 16 Feb 2024, Heidelberg University, Germany     "
 },
 {
   "id": "travel-2",
@@ -133,7 +133,7 @@ var ptx_lunr_docs = [
   "type": "List",
   "number": "1.5.1",
   "title": "Conference List",
-  "body": "Conference List     Young Researchers in Algebraic Number Theory VII 3 Sep - 5 Sep 2025, University of Nottingham, UK     The GEARS seminar 7 Feb 2025, University of Glasgow, UK     Arithmetic, Geometry, Space and Time: A workshop on the occasion of Minhyong Kim's 61st birthday 25 - 29 Nov 2024, ICMS, Edinburgh, UK     Young Researchers in Algebraic Number Theory VI 31 Jul - 2 Aug 2024, University of Oxford, UK     The Mordell conjecture 100 years later 8 - 12 Jul 2024, MIT, US     Gauge Fields in Arithmetic, Topology and Physics 15 - 19 Apr 2024, ICMS, Edinburgh, UK     Winter Workshop Chabauty-Kim 2024 14 - 16 Feb 2024, Heidelberg University, Germany    "
+  "body": "Conference List     Seventeenth Algorithmic Number Theory Symposium 6 Jul - 10 Jul 2026, Bernoulli Institute, Netherlands     Chabauty 29 Jun - 7 Jul 2026, Max Planck Institutes for Mathematics, Germany     Young Researchers in Algebraic Number Theory VII 3 Sep - 5 Sep 2025, University of Nottingham, UK     The GEARS seminar 7 Feb 2025, University of Glasgow, UK     Arithmetic, Geometry, Space and Time: A workshop on the occasion of Minhyong Kim's 61st birthday 25 - 29 Nov 2024, ICMS, Edinburgh, UK     Young Researchers in Algebraic Number Theory VI 31 Jul - 2 Aug 2024, University of Oxford, UK     The Mordell conjecture 100 years later 8 - 12 Jul 2024, MIT, US     Gauge Fields in Arithmetic, Topology and Physics 15 - 19 Apr 2024, ICMS, Edinburgh, UK     Winter Workshop Chabauty-Kim 2024 14 - 16 Feb 2024, Heidelberg University, Germany    "
 },
 {
   "id": "teaching",
