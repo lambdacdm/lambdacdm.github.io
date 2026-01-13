@@ -124,7 +124,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "1.5",
   "title": "Travel",
-  "body": " Travel  Conference List     Seventeenth Algorithmic Number Theory Symposium 6 Jul - 10 Jul 2026, Bernoulli Institute, Netherlands     Chabauty 29 Jun - 3 Jul 2026, Max Planck Institutes for Mathematics, Germany     Young Researchers in Algebraic Number Theory VII 3 Sep - 5 Sep 2025, University of Nottingham, UK     The GEARS seminar 7 Feb 2025, University of Glasgow, UK     Arithmetic, Geometry, Space and Time: A workshop on the occasion of Minhyong Kim's 61st birthday 25 - 29 Nov 2024, ICMS, Edinburgh, UK     Young Researchers in Algebraic Number Theory VI 31 Jul - 2 Aug 2024, University of Oxford, UK     The Mordell conjecture 100 years later 8 - 12 Jul 2024, MIT, US     Gauge Fields in Arithmetic, Topology and Physics 15 - 19 Apr 2024, ICMS, Edinburgh, UK     Winter Workshop Chabauty-Kim 2024 14 - 16 Feb 2024, Heidelberg University, Germany     "
+  "body": " Travel  Conference List     Seventeenth Algorithmic Number Theory Symposium 6 Jul - 10 Jul 2026, Bernoulli Institute, Netherlands     ChaBONNty Conference 29 Jun - 3 Jul 2026, Max Planck Institutes for Mathematics, Germany     Young Researchers in Algebraic Number Theory VII 3 Sep - 5 Sep 2025, University of Nottingham, UK     The GEARS seminar 7 Feb 2025, University of Glasgow, UK     Arithmetic, Geometry, Space and Time: A workshop on the occasion of Minhyong Kim's 61st birthday 25 - 29 Nov 2024, ICMS, Edinburgh, UK     Young Researchers in Algebraic Number Theory VI 31 Jul - 2 Aug 2024, University of Oxford, UK     The Mordell conjecture 100 years later 8 - 12 Jul 2024, MIT, US     Gauge Fields in Arithmetic, Topology and Physics 15 - 19 Apr 2024, ICMS, Edinburgh, UK     Winter Workshop Chabauty-Kim 2024 14 - 16 Feb 2024, Heidelberg University, Germany     "
 },
 {
   "id": "travel-2",
@@ -133,7 +133,7 @@ var ptx_lunr_docs = [
   "type": "List",
   "number": "1.5.1",
   "title": "Conference List",
-  "body": "Conference List     Seventeenth Algorithmic Number Theory Symposium 6 Jul - 10 Jul 2026, Bernoulli Institute, Netherlands     Chabauty 29 Jun - 3 Jul 2026, Max Planck Institutes for Mathematics, Germany     Young Researchers in Algebraic Number Theory VII 3 Sep - 5 Sep 2025, University of Nottingham, UK     The GEARS seminar 7 Feb 2025, University of Glasgow, UK     Arithmetic, Geometry, Space and Time: A workshop on the occasion of Minhyong Kim's 61st birthday 25 - 29 Nov 2024, ICMS, Edinburgh, UK     Young Researchers in Algebraic Number Theory VI 31 Jul - 2 Aug 2024, University of Oxford, UK     The Mordell conjecture 100 years later 8 - 12 Jul 2024, MIT, US     Gauge Fields in Arithmetic, Topology and Physics 15 - 19 Apr 2024, ICMS, Edinburgh, UK     Winter Workshop Chabauty-Kim 2024 14 - 16 Feb 2024, Heidelberg University, Germany    "
+  "body": "Conference List     Seventeenth Algorithmic Number Theory Symposium 6 Jul - 10 Jul 2026, Bernoulli Institute, Netherlands     ChaBONNty Conference 29 Jun - 3 Jul 2026, Max Planck Institutes for Mathematics, Germany     Young Researchers in Algebraic Number Theory VII 3 Sep - 5 Sep 2025, University of Nottingham, UK     The GEARS seminar 7 Feb 2025, University of Glasgow, UK     Arithmetic, Geometry, Space and Time: A workshop on the occasion of Minhyong Kim's 61st birthday 25 - 29 Nov 2024, ICMS, Edinburgh, UK     Young Researchers in Algebraic Number Theory VI 31 Jul - 2 Aug 2024, University of Oxford, UK     The Mordell conjecture 100 years later 8 - 12 Jul 2024, MIT, US     Gauge Fields in Arithmetic, Topology and Physics 15 - 19 Apr 2024, ICMS, Edinburgh, UK     Winter Workshop Chabauty-Kim 2024 14 - 16 Feb 2024, Heidelberg University, Germany    "
 },
 {
   "id": "teaching",
@@ -142,7 +142,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "1.6",
   "title": "Teaching",
-  "body": " Teaching   Current Tutoring   2025-2026 Semester 1    [ MATH08078 ] Introduction to Mathematics at University       Past Tutoring   2024-2025 Semester 2    [ MATH08059 ] Proofs and Problem Solving    [ MATH08064 ] Fundamentals of Pure Mathematics      2024-2025 Semester 1    [ MATH08057 ] Introduction to Linear Algebra    Also, I am a tutor for the MathsBase .      2023-2024 Semester 2    [ MATH08058 ] Calculus and its Applications    [ MATH10077 ] Algebraic Topology      "
+  "body": " Teaching   Current Tutoring   2025-2026 Semester 2    [ MATH08064 ] Fundamentals of Pure Mathematics       Past Tutoring   2025-2026 Semester 1    [ MATH08078 ] Introduction to Mathematics at University      2024-2025 Semester 2    [ MATH08059 ] Proofs and Problem Solving    [ MATH08064 ] Fundamentals of Pure Mathematics      2024-2025 Semester 1    [ MATH08057 ] Introduction to Linear Algebra    Also, I am a tutor for the MathsBase .      2023-2024 Semester 2    [ MATH08058 ] Calculus and its Applications    [ MATH10077 ] Algebraic Topology      "
 },
 {
   "id": "teaching-2-2",
@@ -150,8 +150,8 @@ var ptx_lunr_docs = [
   "url": "teaching.html#teaching-2-2",
   "type": "List",
   "number": "1.6.1",
-  "title": "2025-2026 Semester 1",
-  "body": " 2025-2026 Semester 1    [ MATH08078 ] Introduction to Mathematics at University    "
+  "title": "2025-2026 Semester 2",
+  "body": " 2025-2026 Semester 2    [ MATH08064 ] Fundamentals of Pure Mathematics    "
 },
 {
   "id": "teaching-3-2",
@@ -159,8 +159,8 @@ var ptx_lunr_docs = [
   "url": "teaching.html#teaching-3-2",
   "type": "List",
   "number": "1.6.2",
-  "title": "2024-2025 Semester 2",
-  "body": " 2024-2025 Semester 2    [ MATH08059 ] Proofs and Problem Solving    [ MATH08064 ] Fundamentals of Pure Mathematics    "
+  "title": "2025-2026 Semester 1",
+  "body": " 2025-2026 Semester 1    [ MATH08078 ] Introduction to Mathematics at University    "
 },
 {
   "id": "teaching-3-3",
@@ -168,8 +168,8 @@ var ptx_lunr_docs = [
   "url": "teaching.html#teaching-3-3",
   "type": "List",
   "number": "1.6.3",
-  "title": "2024-2025 Semester 1",
-  "body": " 2024-2025 Semester 1    [ MATH08057 ] Introduction to Linear Algebra    Also, I am a tutor for the MathsBase .    "
+  "title": "2024-2025 Semester 2",
+  "body": " 2024-2025 Semester 2    [ MATH08059 ] Proofs and Problem Solving    [ MATH08064 ] Fundamentals of Pure Mathematics    "
 },
 {
   "id": "teaching-3-4",
@@ -177,6 +177,15 @@ var ptx_lunr_docs = [
   "url": "teaching.html#teaching-3-4",
   "type": "List",
   "number": "1.6.4",
+  "title": "2024-2025 Semester 1",
+  "body": " 2024-2025 Semester 1    [ MATH08057 ] Introduction to Linear Algebra    Also, I am a tutor for the MathsBase .    "
+},
+{
+  "id": "teaching-3-5",
+  "level": "2",
+  "url": "teaching.html#teaching-3-5",
+  "type": "List",
+  "number": "1.6.5",
   "title": "2023-2024 Semester 2",
   "body": " 2023-2024 Semester 2    [ MATH08058 ] Calculus and its Applications    [ MATH10077 ] Algebraic Topology    "
 },
