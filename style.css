@@ -59,7 +59,7 @@ img { display: block; max-width: 100%; }
 }
 
 /* === Base / Typography === */
-html { scroll-behavior: smooth; scroll-padding-top: 4rem; }
+html { scroll-behavior: smooth; scroll-padding-top: 2rem; }
 
 body {
   font-family: var(--font-sans);
@@ -86,7 +86,7 @@ p:last-child { margin-bottom: 0; }
 
 /* === Layout === */
 .container { max-width: 720px; margin: 0 auto; padding: 0 clamp(1rem, 4vw, 2rem); }
-.section { padding: 5rem 0; }
+.section { padding: 1.8rem 0; }
 .section__heading {
   font-family: var(--font-serif);
   font-size: 1.75rem;
@@ -165,7 +165,14 @@ p:last-child { margin-bottom: 0; }
   opacity: 0.10;
   z-index: -1;
 }
-[data-theme="dark"] .hero::before { opacity: 0.08; }
+[data-theme="dark"] .hero::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: url('external/images/X13dark.png') center/contain no-repeat;
+  opacity: 0.08;
+  z-index: -1;
+}
 
 .hero__name {
   font-family: var(--font-serif);
@@ -204,7 +211,7 @@ p:last-child { margin-bottom: 0; }
 
 /* === Theorem Blocks (signature feature) === */
 .theorem {
-  margin: 1.75rem 0;
+  margin: 1.25rem 0;
   padding: 1.25rem 1.5rem 1.25rem 1.75rem;
   border-left: 3px solid var(--theorem-border);
   background: var(--theorem-bg);
@@ -235,8 +242,26 @@ p:last-child { margin-bottom: 0; }
 .theorem--aside .theorem-heading { color: var(--text-muted); font-weight: 500; }
 
 /* Proof variant — smaller heading, subtle */
-.theorem--proof .theorem-heading { font-size: 0.8rem; color: var(--text-muted); }
-.theorem--proof .theorem-body { font-style: italic; }
+.theorem--proof {
+  border-left: none;
+  background: none;
+  padding: 0.5rem 0 0.5rem 1rem;
+  border-radius: 0;
+}
+.theorem--proof .theorem-heading {
+  font-size: 0.8rem;
+  color: var(--text-muted);
+  margin-bottom: 0;
+  display: inline;
+}
+.theorem--proof .theorem-body {
+  font-style: italic;
+  display: inline;
+}
+.theorem--proof .theorem-body p {
+  display: inline;
+  margin: 0;
+}
 
 /* Figure */
 .theorem-figure { margin: 2rem 0; text-align: center; }
