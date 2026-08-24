@@ -1,0 +1,8 @@
+_static/
+backup/
+external/
+generated/
+lunr-pretext-search-index.js
+.mapping.json
+._*
+.DS_Store
