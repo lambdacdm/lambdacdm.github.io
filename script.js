@@ -63,4 +63,37 @@
 
   window.addEventListener('scroll', updateActiveLink, { passive: true });
   updateActiveLink();
+
+  // --- Copy email button ---
+  function fallbackCopy(text) {
+    var tmp = document.createElement('textarea');
+    tmp.value = text;
+    tmp.setAttribute('readonly', '');
+    tmp.style.position = 'fixed';
+    tmp.style.opacity = '0';
+    document.body.appendChild(tmp);
+    tmp.select();
+    try { document.execCommand('copy'); } catch (e) {}
+    document.body.removeChild(tmp);
+  }
+
+  var copyBtn = document.getElementById('copy-email');
+  if (copyBtn) {
+    copyBtn.addEventListener('click', function () {
+      var email = copyBtn.getAttribute('data-email');
+      var feedback = function () {
+        copyBtn.classList.add('copied');
+        setTimeout(function () { copyBtn.classList.remove('copied'); }, 1500);
+      };
+      if (navigator.clipboard && navigator.clipboard.writeText) {
+        navigator.clipboard.writeText(email).then(feedback, function () {
+          fallbackCopy(email);
+          feedback();
+        });
+      } else {
+        fallbackCopy(email);
+        feedback();
+      }
+    });
+  }
 })();
