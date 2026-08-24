@@ -161,7 +161,7 @@ p:last-child { margin-bottom: 0; }
   content: '';
   position: absolute;
   inset: 0;
-  background: url('external/images/X13.jpg') center/contain no-repeat;
+  background: url('assets/X13.jpg') center/contain no-repeat;
   opacity: 0.10;
   z-index: -1;
 }
@@ -169,7 +169,7 @@ p:last-child { margin-bottom: 0; }
   content: '';
   position: absolute;
   inset: 0;
-  background: url('external/images/X13dark.png') center/contain no-repeat;
+  background: url('assets/X13dark.png') center/contain no-repeat;
   opacity: 0.08;
   z-index: -1;
 }
@@ -299,29 +299,31 @@ p:last-child { margin-bottom: 0; }
 .timeline__title { font-family: var(--font-sans); font-size: 1rem; font-weight: 600; color: var(--text); }
 .timeline__detail { font-size: 0.9rem; color: var(--text-secondary); margin-top: 0.15rem; }
 
-/* === Cards === */
-.card {
-  background: var(--card-bg);
-  border: 1px solid var(--card-border);
-  border-radius: 8px;
-  padding: 1.25rem 1.5rem;
-  margin-bottom: 1rem;
-  transition: background-color 0.3s ease, border-color 0.3s ease, box-shadow 0.2s;
+/* === Publication list (plain) === */
+.pub-list { list-style: none; }
+.pub-list li {
+  padding: 0.65rem 0;
+  border-bottom: 1px solid var(--card-border);
+  transition: border-color 0.3s ease;
 }
-.card:hover { box-shadow: 0 2px 16px rgba(0,0,0,0.05); }
-.card__title { font-family: var(--font-sans); font-size: 1rem; font-weight: 600; margin-bottom: 0.4rem; color: var(--text); }
-.card__meta {
-  display: flex; flex-wrap: wrap; gap: 0.5rem 1.5rem;
-  font-size: 0.85rem; color: var(--text-muted);
-  margin-bottom: 0.4rem;
+.pub-list li:last-child { border-bottom: none; }
+.pub-list__title {
+  font-family: var(--font-sans);
+  font-size: 0.95rem;
+  font-weight: 600;
+  color: var(--text);
+  line-height: 1.4;
 }
-.card__context { font-size: 0.9rem; color: var(--text-secondary); }
-.card__context a { font-weight: 500; }
+.pub-list__meta { font-size: 0.8rem; color: var(--text-muted); margin-top: 0.15rem; }
 
-/* Project report card — compact */
-.card--project { padding: 1rem 1.25rem; }
-.card--project .card__title { font-size: 0.95rem; }
-.card--project .card__meta { margin-bottom: 0; }
+/* Featured variant — gold left rule, echoes the theorem blocks */
+.pub-list--featured li {
+  border-left: 3px solid var(--theorem-border);
+  padding-left: 1rem;
+}
+
+/* Note line under a talk/conference entry */
+.conf-note { font-size: 0.85rem; color: var(--text-secondary); margin-top: 0.25rem; }
 
 /* Conference — compact list */
 .conference-list { list-style: none; }
