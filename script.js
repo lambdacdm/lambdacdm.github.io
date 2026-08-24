@@ -28,11 +28,21 @@
   });
 
   // --- Smooth scroll for all anchor links ---
+  var prefersReducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)');
+  var scrollBehavior = function () {
+    return prefersReducedMotion.matches ? 'auto' : 'smooth';
+  };
+
   document.querySelectorAll('a[href^="#"]').forEach(function (a) {
     a.addEventListener('click', function (e) {
+      var href = this.getAttribute('href');
       e.preventDefault();
-      var target = document.querySelector(this.getAttribute('href'));
-      if (target) target.scrollIntoView({ behavior: 'smooth' });
+      if (href === '#') {
+        window.scrollTo({ top: 0, behavior: scrollBehavior() });
+        return;
+      }
+      var target = document.querySelector(href);
+      if (target) target.scrollIntoView({ behavior: scrollBehavior() });
     });
   });
 
@@ -52,4 +62,5 @@
   }
 
   window.addEventListener('scroll', updateActiveLink, { passive: true });
+  updateActiveLink();
 })();
