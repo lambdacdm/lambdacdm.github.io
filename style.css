@@ -220,6 +220,7 @@ p:last-child { margin-bottom: 0; }
   display: inline-flex;
   align-items: center;
   vertical-align: -2px;
+  position: relative;
   transition: color 0.2s;
 }
 .copy-email-btn:hover { color: var(--accent); }
@@ -227,6 +228,30 @@ p:last-child { margin-bottom: 0; }
 .copy-email-btn.copied { color: var(--accent); }
 .copy-email-btn.copied .icon-copy { display: none; }
 .copy-email-btn.copied .icon-check { display: block; }
+.copy-email-btn.copied::after {
+  content: 'Copied!';
+  position: absolute;
+  top: calc(100% + 6px);
+  left: 50%;
+  transform: translateX(-50%);
+  background: var(--text);
+  color: var(--bg);
+  font-size: 0.7rem;
+  font-weight: 500;
+  line-height: 1;
+  padding: 4px 8px;
+  border-radius: 4px;
+  white-space: nowrap;
+  pointer-events: none;
+  animation: copy-toast-in 0.15s ease-out;
+}
+@keyframes copy-toast-in {
+  from { opacity: 0; transform: translateX(-50%) translateY(-3px); }
+  to { opacity: 1; transform: translateX(-50%) translateY(0); }
+}
+@media (prefers-reduced-motion: reduce) {
+  .copy-email-btn.copied::after { animation: none; }
+}
 
 /* === Theorem Blocks (signature feature) === */
 .theorem {
