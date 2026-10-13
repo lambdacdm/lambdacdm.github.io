@@ -6,3 +6,11 @@ lunr-pretext-search-index.js
 .mapping.json
 ._*
 .DS_Store
+# LaTeX intermediates in cv/ (keep only .tex and .pdf)
+cv/*.aux
+cv/*.log
+cv/*.fls
+cv/*.fdb_latexmk
+cv/*.out
+cv/*.xdv
+cv/*.synctex.gz

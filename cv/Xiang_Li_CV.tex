@@ -1,0 +1,147 @@
+% Xiang Li — Curriculum Vitae
+% Compile: latexmk -xelatex Xiang_Li_CV.tex
+\documentclass[11pt,a4paper]{article}
+
+\usepackage[a4paper,top=2cm,bottom=2.2cm,left=2.2cm,right=2.2cm]{geometry}
+\usepackage{amsmath,amssymb}
+\usepackage{enumitem}
+\usepackage{microtype}
+\usepackage{titlesec}
+\usepackage{xeCJK}
+\usepackage[hidelinks]{hyperref}
+
+\setCJKmainfont[BoldFont={FandolSong-Bold.otf}]{FandolSong-Regular.otf}
+
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+\fancyfoot[C]{\small\thepage}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+\setlength{\parindent}{0pt}
+\emergencystretch=3em
+\tolerance=2000
+
+% Section format: small caps + rule
+\titleformat{\section}{\large\scshape}{}{0em}{}[{\vspace{-0.6em}\rule{\textwidth}{0.5pt}}]
+\titlespacing{\section}{0pt}{14pt}{8pt}
+
+% Entry: bold title + right-aligned date, italic line below
+\newcommand{\cventry}[4]{%
+  {\textbf{#1}\hfill #2\\[1pt]\itshape #3\hfill {\small #4}\par}\vspace{6pt}}
+
+\newlist{cvlist}{itemize}{1}
+\setlist[cvlist]{label={},leftmargin=0pt,itemindent=0pt,listparindent=0pt,itemsep=3pt,parsep=0pt,topsep=2pt}
+
+\begin{document}
+
+% ===== Header =====
+\begin{center}
+  {\LARGE\bfseries Xiang Li 李想}\\[4pt]
+  PhD Student in Algebra \& Number Theory, The University of Edinburgh\\[6pt]
+  \small \href{mailto:X.Li-198@sms.ed.ac.uk}{X.Li-198@sms.ed.ac.uk}
+  \,$\cdot$\, \href{https://lambdacdm.github.io/}{lambdacdm.github.io}
+  \,$\cdot$\, \href{https://orcid.org/0009-0005-2709-3942}{ORCID: 0009-0005-2709-3942}
+\end{center}
+
+\vspace{-6pt}
+
+% ===== Research Interests =====
+\section*{Research Interests}
+Algebraic number theory and arithmetic geometry, in particular nonabelian Chabauty methods:
+the Chabauty--Kim method over number fields, $S$-integral points on the thrice-punctured line
+$\mathbb{P}^1\setminus\{0,1,\infty\}$, Kim's Conjecture over quadratic fields,
+and the $S$-Selmer section conjecture.
+
+% ===== Education =====
+\section*{Education}
+{\textbf{PhD in Algebra and Number Theory}\hfill Sep 2023 -- present\\[1pt]{\itshape School of Mathematics (Hodge Institute), The University of Edinburgh}\\[1pt]{\small\itshape Supervisor: Professor Minhyong Kim}\par}\vspace{6pt}
+\cventry{MASt in Mathematics (Part III)}{Oct 2022 -- Jun 2023}{Department of Pure Mathematics and Mathematical Statistics, University of Cambridge}{}
+\cventry{BSc (Hons) Mathematics, First Class Honours}{Sep 2020 -- Jul 2022}{School of Mathematics, The University of Edinburgh}{}
+\cventry{BSc in Mathematics}{Sep 2018 -- Jun 2020}{School of Mathematics, South China University of Technology}{}
+
+% ===== Preprints =====
+\section*{Preprints}
+\begin{cvlist}
+  \item \href{https://arxiv.org/abs/2609.01128}{Nonabelian Chabauty for the thrice-punctured line over cyclotomic fields},
+        with Minhyong Kim and Martin Lüdtke.
+        \href{https://arxiv.org/abs/2609.01128}{arXiv:2609.01128}, September 2026.
+  \item \href{https://arxiv.org/abs/2608.20615}{Polylogarithmic Chabauty--Kim loci over number fields},
+        with Martin Lüdtke.
+        \href{https://arxiv.org/abs/2608.20615}{arXiv:2608.20615}, August 2026.
+\end{cvlist}
+
+% ===== Awards and Scholarships =====
+\section*{Awards and Scholarships}
+\begin{cvlist}
+  \item Carnegie PhD Scholarship, 2023 -- 2027.
+  \item Napier Medal and Gangadhar Balwant Gadgil Prize for the best 4th year student, 2021/22.
+  \item Arthur Erdelyi Prize for distinguished performance in the Degree Examinations for year 3 Mathematics, 2020/21.
+  \item Dr Nigel Suess Prize for distinguished performance in `Introduction to Number Theory', 2020/21.
+  \item College Vacation Scholarship, 2020/21.
+  \item National Scholarship (China), 2018/19.
+\end{cvlist}
+
+% ===== Talks =====
+\section*{Talks}
+\begin{cvlist}
+  \item Nonabelian Chabauty methods over number fields.
+        Glasgow Algebra and Number Theory Seminar, School of Mathematics and Statistics, University of Glasgow, UK. 14 October 2026.
+  \item Polylogarithmic Chabauty--Kim loci over number fields.
+        Young Researchers in Algebraic Number Theory VIII, University of Bristol, UK. 3 September 2026.
+  \item Chabauty--Kim methods over number fields: $\mathbb{P}^1\setminus\{0,1,\infty\}$.
+        Speed talk, ChaBONNty Conference, Max Planck Institute for Mathematics, Bonn, Germany. 2 July 2026.
+  \item \(S\)-integral points on the thrice-punctured line over cyclotomic fields.
+        Young Researchers in Algebraic Number Theory VII, University of Nottingham, UK. 5 September 2025.
+  \item Rigid geometry and Coleman function.
+        The GEARS seminar, University of Glasgow, UK. 7 February 2025.
+  \item Introduction to Chabauty--Kim methods on $S$-unit equations.
+        Young Researchers in Algebraic Number Theory VI, University of Oxford, UK. 2 August 2024.
+  \item Tannakian category, unipotent completion, and de Rham fundamental group.
+        Examples Showcase, GlaMS, ICMS, Edinburgh, UK. 1 December 2023.
+  \item Euler's totient theorem and the prime number theorem (with Ella Yu).
+        London Learning Lean seminar, Imperial College London and Zoom. 16 February 2023.
+\end{cvlist}
+
+% ===== Teaching =====
+\section*{Teaching}
+\small All tutoring at the School of Mathematics, The University of Edinburgh.\normalsize
+\begin{cvlist}
+  \item 2026--27, Semester 1: Honours Differential Equations
+  \item 2025--26, Semester 2: Fundamentals of Pure Mathematics
+  \item 2025--26, Semester 1: Introduction to Mathematics at University
+  \item 2024--25, Semester 2: Proofs and Problem Solving; Fundamentals of Pure Mathematics
+  \item 2024--25, Semester 1: Introduction to Linear Algebra; Tutor at the MathsBase
+  \item 2023--24, Semester 2: Calculus and its Applications; Algebraic Topology
+\end{cvlist}
+
+% ===== Conferences and Workshops =====
+\section*{Conferences and Workshops}
+\begin{cvlist}
+  \item Young Researchers in Algebraic Number Theory VIII, University of Bristol, UK. 2--4 September 2026.
+  \item ChaBONNty Conference, Max Planck Institute for Mathematics, Bonn, Germany. 29 June--3 July 2026.
+  \item Young Researchers in Algebraic Number Theory VII, University of Nottingham, UK. 3--5 September 2025.
+  \item Arithmetic, Geometry, Space and Time: a workshop on the occasion of Minhyong Kim's 61st birthday, ICMS, Edinburgh, UK. 25--29 November 2024.
+  \item Young Researchers in Algebraic Number Theory VI, University of Oxford, UK. 31 July--2 August 2024.
+  \item The Mordell Conjecture 100 Years Later, MIT, Cambridge, MA, USA. 8--12 July 2024.
+  \item Gauge Fields in Arithmetic, Topology and Physics, ICMS, Edinburgh, UK. 15--19 April 2024.
+  \item Winter Workshop Chabauty--Kim 2024, Heidelberg University, Germany. 14--16 February 2024.
+\end{cvlist}
+
+% ===== Software =====
+\section*{Software}
+\begin{cvlist}
+  \item \href{https://github.com/martinluedtke/PolylogNF}{PolylogNF} ---
+        Sage code accompanying the preprints \emph{Polylogarithmic Chabauty--Kim loci over number fields} and \emph{Nonabelian Chabauty for the thrice-punctured line over cyclotomic fields}.
+  \item \href{https://github.com/xinhjBrant/prime-number-theorem}{prime-number-theorem} ---
+        a formal proof of the prime number theorem in Lean, with Huajian Xin, Ella Yu and others.
+  \item \href{https://github.com/lambdacdm/Numerical-Library-of-Mathematics-Algorithm}{Numerical Library of Mathematics Algorithm} ---
+        a C++ library for numerical algorithms.
+\end{cvlist}
+
+\vfill
+\begin{center}
+  \small Last updated: October 2026
+\end{center}
+
+\end{document}
